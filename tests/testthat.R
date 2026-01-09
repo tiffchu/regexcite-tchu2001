@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(rpackage)
+library(regexcite)
 
-test_check("rpackage")
+test_check("regexcite")
